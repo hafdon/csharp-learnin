@@ -1,6 +1,6 @@
 # clean architecture - robert martin
 
-- [[#component principles|component principles]]
+- [component principles](#component%20principles)
 	- [[#common reuse principle (crp)|common reuse principle (crp)]]
 	- [[#tension diagram|tension diagram]]
 - [[#component coupling|component coupling]]
@@ -264,4 +264,3 @@ We want **source code dependencies to be coupled to level.** (not coupled to dat
 	- **entity**: object that embodies a small set of CBR operating on CBD
 		- entity either has easy access to CBD or contains it
 			- entity interface is functions that implement CBR
-
