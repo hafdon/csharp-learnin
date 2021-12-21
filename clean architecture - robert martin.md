@@ -1,32 +1,5 @@
 # clean architecture - robert martin
 
-- [component principles](#component%20principles)
-	- [[#common reuse principle (crp)|common reuse principle (crp)]]
-	- [[#tension diagram|tension diagram]]
-- [[#component coupling|component coupling]]
-	- [[#acyclical dependencies principle (ADP)|acyclical dependencies principle (ADP)]]
-		- [[#solutions|solutions]]
-			- [[#weekly build|weekly build]]
-			- [[#eliminating dependency cycles|eliminating dependency cycles]]
-	- [[#Top-down design|Top-down design]]
-	- [[#stable dependencies principle (SDP)|stable dependencies principle (SDP)]]
-	- [[#stable abstractions principle (SAP)|stable abstractions principle (SAP)]]
-- [[#architecture|architecture]]
-	- [[#what is architecture|what is architecture]]
-	- [[#independence|independence]]
-		- [[#decoupling layers|decoupling layers]]
-		- [[#decoupling use cases|decoupling use cases]]
-		- [[#decoupling mode|decoupling mode]]
-		- [[#independent develop-ability|independent develop-ability]]
-		- [[#independent deployability|independent deployability]]
-		- [[#duplication|duplication]]
-		- [[#decoupling modes (again)|decoupling modes (again)]]
-	- [[#boundaries: drawing lines|boundaries: drawing lines]]
-	- [[#boundary anatomy|boundary anatomy]]
-	- [[#policy and level|policy and level]]
-	- [[#business rules|business rules]]
-
-
 terms
 - business requirements = use cases = actions a user might take (delete a blog post, calculate their taxes)
 - policy
