@@ -1,4 +1,5 @@
 # clean architecture - robert martin
+![](_attachments/Martin,%20Robert%20-%20Clean%20Architecture_%20a%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design-Prentice%20Hall%20(2017).pdf)
 
 - a millisecond is a million times longer than the cycle time of most processors. 
 
